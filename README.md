@@ -1,2 +1,2 @@
-# Web_50_Project
+# Java Script 50 Project
 For reference
