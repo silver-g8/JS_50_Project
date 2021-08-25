@@ -1,2 +1,2 @@
 # Java Script 50 Project
-For reference
+Demo project For reference
